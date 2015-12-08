@@ -6,6 +6,6 @@
 
   2. Run the script "Run.bat" to run the ChatRoom server.
 
-  3. I have assigned a default Port Number as "5949". My code doesn't expect any parameters to run.
+  3. I have assigned a default Port Number as "5949". This code doesn't expect any other parameters to run.
 
   
